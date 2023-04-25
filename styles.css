@@ -1,0 +1,31 @@
+body { background-color: beige; }
+
+nav {
+  background-color: beige;
+  border-bottom: 1px solid #ccc;
+  float: right;
+  width: 500;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  float: left;
+  margin-right: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+img {
+  display: block;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
