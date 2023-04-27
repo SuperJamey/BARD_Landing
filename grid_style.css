@@ -17,93 +17,23 @@
   background-color: aqua;
 }
 
+#title {
+  display: grid;
+  grid-row: 1;
+  grid-column: 1;
+  background-color: rgb(222, 230, 201);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2em;
+  font-weight: bolder;
+  color: #df0505;
+  justify-items: end;
+  align-items: end;
+}
+
 #boxR1C1 {
   border-style: 1px solid black;
-  grid-column: 1;
-  grid-row: 1;
-}
-
-#boxR1C3 {
-  border-style: 1px solid black;
-  grid-column: 3;
-  grid-row: 1;
-}
-
-#boxR1C5 {
-  border-style: 1px solid black;
-  grid-column: 5;
-  grid-row: 1;
-}
-
-#boxR1C7 {
-  border-style: 1px solid black;
   grid-column: 7;
-  grid-row: 1;
-}
-
-#boxR1C9 {
-  border-style: 1px solid black;
-  grid-column: 9;
-  grid-row: 1;
-}
-
-#boxR1C11 {
-  border-style: 1px solid black;
-  grid-column: 11;
-  grid-row: 1;
-}
-
-
-
-#boxR2C2 {
-  border-style: 1px solid black;
-  grid-column: 2;
-  grid-row: 2;
-}
-
-#boxR2C4 {
-  border-style: 1px solid black;
-  grid-column: 4;
-  grid-row: 2;
-}
-
-#boxR2C6 {
-  border-style: 1px solid black;
-  grid-column: 6;
-  grid-row: 2;
-}
-
-#boxR2C8 {
-  border-style: 1px solid black;
-  grid-column: 8;
-  grid-row: 2;
-}
-
-#boxR2C10 {
-  border-style: 1px solid black;
-  grid-column: 10;
-  grid-row: 2;
-}
-
-#boxR2C12 {
-  border-style: 1px solid black;
-  grid-column: 12;
-  grid-row: 2;
-}
-
-
-
-
-#boxR12C1 {
-  border-style: 1px solid black;
-  grid-column: 1;
-  grid-row: 12;
-}
-
-#boxR12C12 {
-  border-style: 1px solid black;
-  grid-column: 12;
-  grid-row: 12;
+  grid-row: 9;
 }
 
 #gridArea {
