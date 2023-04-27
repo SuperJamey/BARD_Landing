@@ -1,0 +1,7 @@
+business.card.superjamey.com/ is maintained on Github
+
+Github repo is 'bussiness-card'
+repo address: 'https://github.com/SuperJamey/business-card'
+
+I created this little business card example Oct 31, 2023
+I believe it was created from a Scrimba course, but not sure

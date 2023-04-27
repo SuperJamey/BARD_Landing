@@ -1,0 +1,8 @@
+birthday.superjamey.com is maintained on Github
+
+Github repo is 'business-card'
+repo address: https://github.com/SuperJamey/business-card
+repo files: 'birthday.html' and 'birthday.css'
+
+This is one of the first sites I created, under the business-card repo,
+ which contains the files 'birthday.html' and 'birthday.css'
